@@ -1,22 +1,22 @@
 main()
 
 
-function main(){
+function main() {
     getData()
     checkValues()
     sendToDataBase()
 }
 
 // função que pega todos os dados
-function getData(){
+function getData() {
     console.log("pegando dados do usuario")
 }
 
-function checkValues(){
+function checkValues() {
     console.log("validando dados")
 }
 
-function sendToDataBase(){
+function sendToDataBase() {
     console.log("cadastrando dados")
 }
 
